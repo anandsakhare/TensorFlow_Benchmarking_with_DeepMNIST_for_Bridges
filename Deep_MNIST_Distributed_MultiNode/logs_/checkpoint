@@ -1,0 +1,2 @@
+model_checkpoint_path: "/pylon5/cc5fp8p/asakhare/DistTF/logs_/model.ckpt-0"
+all_model_checkpoint_paths: "/pylon5/cc5fp8p/asakhare/DistTF/logs_/model.ckpt-0"
